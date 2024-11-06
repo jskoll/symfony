@@ -23,7 +23,7 @@
     },
     "require-dev": {
         "symfony/console": "^4.4|^5.0",
-        "symfony/http-client": "^4.4|^5.0",
+        "symfony/http-client": "^7.1.7",
         "symfony/security-core": "^4.4|^5.0",
         "symfony/var-dumper": "^4.4|^5.0",
         "symfony/mailer": "^4.4|^5.0",
